@@ -1,1 +1,1 @@
-console.log("my first self repo");
+console.log("my first self repository");
